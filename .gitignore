@@ -6,7 +6,7 @@ __pycache__/
 
 # Data & models
 dataset/
-# datasets/
+datasets/
 data/
 models/
 *.h5
